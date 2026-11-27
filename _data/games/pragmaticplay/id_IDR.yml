@@ -1,10 +1,16 @@
 # New games
+- title: Starlight Princess Super Scatter
+  symbol: vs20starprss
+  img: incess-super-scatter.jpg
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starprss
+  type: new
+  provider: Pragmatic Play
 
 - title: Sasuntsi Davit
   symbol: vs20davofsun
   img: sasuntsi-davit.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20davofsun
-  type: new
+  type: old
   provider: Pragmatic Play
 
   
@@ -12,28 +18,28 @@
   symbol: vs9hockey
   img: hockey-league-wild-match.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9hockey
-  type: new
+  type: old
   provider: Pragmatic Play
 
 - title: FTN Rush
   symbol: vs20ftnsugar
   img: ftn-rush.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ftnsugar
-  type: new
+  type: old
   provider: Pragmatic Play
 
 - title: Gates of FTN
   symbol: vs20ftngates
   img: gates-of-ftn.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ftngates
-  type: new
+  type: old
   provider: Pragmatic Play
 
 - title: Gates of Olympus Dice
   symbol: vs20olympdice
   img: gates-of-olympus-dice.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympdice
-  type: new
+  type: old
   provider: Pragmatic Play
 
 - title: Year of The Dragon King
